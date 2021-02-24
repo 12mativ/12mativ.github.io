@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: #212121;
+    line-height: 1.6;
+    background-color: #e7e7e7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 1230px;
+    padding: 0 30px;
+    margin: 0 auto;
+}
+
+.header__logo {
+    background-color: red;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight:bold;
+    text-align: center;
+}
+
+.intro {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.section {
+    margin: 20px 0;
+}
+
+.section__inner {
+    background-color: #fff;
+}
