@@ -13,11 +13,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 button {
-    width: 90px;
+    width: 115px;
     height: 40px;
     cursor: pointer;
     font-size: 17px;
+    color: white;
+    background-color: #ff000069;
+    border: 1px #f0baba solid;
+    border-radius: 5px;
 
+}
+
+button, 
+button:active,
+button:focus {
+    outline: none;
 }
 
 a {
