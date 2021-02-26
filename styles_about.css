@@ -6,7 +6,6 @@ body {
     color: #212121;
     line-height: 1.6;
     background-color: #e7e7e7;
-    color: red;
 }
 
 .container {
@@ -14,6 +13,16 @@ body {
     max-width: 1230px;
     padding: 0 30px;
     margin: 0 auto;
+}
+
+.section {
+    margin: 20px 0;
+}
+
+.section__inner{
+    background-color: #fff;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 @media only screen and (max-width: 480px) {
