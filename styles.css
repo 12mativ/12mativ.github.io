@@ -70,6 +70,16 @@ a {
     margin-bottom: 5px;
 }
 
+.gif__inner {
+    display: flex;
+}
+
+.gif {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
 @media only screen and (max-width: 480px) {
     .container {
         width: 100%;
