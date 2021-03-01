@@ -21,7 +21,6 @@ body {
 
 .section__inner{
     background-color: #fff;
-    text-align: center;
     margin-bottom: 20px;
     padding: 10px;
     font-size: 18px;
@@ -30,13 +29,20 @@ body {
 @media only screen and (max-width: 480px) {
     .container {
         width: 100%;
-        max-width: 300px;
+        max-width: 350px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .container {
+        width: 100%;
+        max-width: 310px;
     }
 }
 
 @media only screen and (max-width: 330px) {
     .container {
         width: 100%;
-        max-width: 250px;
+        max-width: 260px;
     }
 }

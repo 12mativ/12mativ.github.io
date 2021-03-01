@@ -13,10 +13,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 button {
-    width: 115px;
-    height: 40px;
+    width: 255px;
+    height: 50px;
     cursor: pointer;
-    font-size: 17px;
+    font-size: 18px;
     color: white;
     background-color: #ff000069;
     border: 1px #f0baba solid;
