@@ -33,12 +33,6 @@ body {
     }
 }
 
-@media only screen and (max-width: 400px) {
-    .container {
-        width: 100%;
-        max-width: 270px;
-    }
-}
 
 @media only screen and (max-width: 330px) {
     .container {
